@@ -1,25 +1,74 @@
-# 💫 About Me:
-👋 Hello! I'm Navarathan, a Computer Science and Technology graduate passionate <br>about software engineering. Working as Associate Software Engineering.<br><br>Skills<br>💻 Java, C#, PHP, HTML, CSS, JavaScript<br>🛠️  React JS, Nest JS, ASP .NET, Node JS, Express JS, Flutter, Spring MVC<br>🗃️ MySQL, MSSQL, Firebase, MongoDB<br>🎨 HTML, CSS, JavaScript, Tailwind CSS<br><br>Learning<br>🌱 Currently diving into:<br>⚛️ React JS<br>🚀 Node JS & Express JS<br>🌬️ Tailwind CSS<br>📊 MongoDB<br><br><br>Let's connect! Reach me via:<br>📧 Email: navarathan0926@gmail.com<br>💼 LinkedIn: https://www.linkedin.com/in/uthayakumar-navarathan-a0223a220/<br>Let's build cool stuff together! 🚀<br><br>
+# Hi, I'm Navarathan 👋
 
+**Full-Stack Software Engineer** based in Colombo, Sri Lanka
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Uthayakumar Navarathan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Uthayakumar Navarathan) 
+Software Engineer with experience building scalable, enterprise-grade applications. Proficient in **C#**, **ASP.NET Core**, **Node.js**, **TypeScript**, **NestJS**, and **React/Next.js**, with a strong focus on clean architecture and robust RESTful APIs. Experienced with Azure cloud services, CI/CD pipelines, and Agile practices.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=flat&logo=node-red&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=flat&logo=eclipsemosquitto&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=navarathan0926&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=navarathan0926&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=navarathan0926&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=navarathan0926&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+📧 navarathan0926@gmail.com &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/uthayakumar-navarathan-a0223a220/) &nbsp;|&nbsp; 🐙 [GitHub](https://github.com/navarathan0926)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=navarathan0926&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Tech Stack
+
+**Languages**
+`JavaScript` `TypeScript` `C#` `Java`
+
+**Frontend**
+`React` `Next.js` `TanStack Query` `HTML` `CSS` `Tailwind CSS`
+
+**Backend**
+`ASP.NET Core` `NestJS` `Node.js` `Express.js`
+
+**Databases**
+`PostgreSQL` `MySQL` `SQL Server` `MongoDB` `Firebase`
+
+**Tools & Platforms**
+`Azure` `AWS` `GitHub Actions` `Docker` `REST APIs` `Jest` `Postman`
+
+---
+
+## 💼 Experience
+
+**Associate Software Engineer** — Beta Launch, Colombo *(July 2025 – Present)*
+- Building and maintaining core modules of an enterprise **Payroll Management System** using TypeScript, NestJS, and React
+- Developed payroll reporting and export features supporting CSV, XLS/XLSX, DAT, and PDF formats
+- Implemented payroll tax calculation, salary processing, and bulk bank transfer file generation for major Sri Lankan banks (Bank of Ceylon, Commercial Bank, HNB, Sampath Bank)
+- Reduced feature-related bugs by **25%** through frontend and backend optimizations
+
+**Intern Software Engineer** — Beta Launch, Colombo *(July 2024 – June 2025)*
+- Built UI components and backend services using React and NestJS, contributing to a **30% reduction** in manual HR tasks
+
+---
+
+## 🚀 Projects
+
+### 🤖 AI Meeting Transcription & Summarization Assistant &nbsp;[`GitHub`](https://github.com/navarathan0926/ai-meeting-assistant)
+*Next.js · NestJS · PostgreSQL · OpenAI · Azure*
+
+An AI-powered meeting assistant for audio transcription and intelligent meeting summarization.
+- Designed asynchronous job processing with **Redis** and **BullMQ** for scalable AI workflows
+- Integrated **Azure Blob Storage** for secure audio storage
+- Deployed as a containerized application on **Azure Container Apps**
+
+### 💰 Expense Manager &nbsp;[`API`](https://github.com/navarathan0926/expense-manager-api) &nbsp;[`Web`](https://github.com/navarathan0926/expense-manager-web)
+*ASP.NET Core · .NET 8 · PostgreSQL · JWT · Clean Architecture*
+
+A scalable RESTful Web API for personal financial data management.
+- Implemented **Clean Architecture** (Domain, Application, Infrastructure, API layers)
+- Used **Entity Framework Core** and PostgreSQL for migrations and data persistence
+- Secured with **JWT-based authentication and authorization**
+- Built CSV-based financial reporting with configurable exports
+
+---
+
+## 🎓 Education
+
+**BSc (Hons) in Computer Science and Technology** — Uva Wellassa University of Sri Lanka *(2020 – 2024)*
+GPA: **3.74 / 4.0**
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=navarathan0926&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=navarathan0926&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
