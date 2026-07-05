@@ -29,13 +29,13 @@ Software Engineer with experience building scalable, enterprise-grade applicatio
 
 ## 💼 Experience
 
-**Associate Software Engineer** — Beta Launch, Colombo *(July 2025 – Present)*
+**Associate Software Engineer** — Beta Launch, Colombo *(January 2025 – Present)*
 - Building and maintaining core modules of an enterprise **Payroll Management System** using TypeScript, NestJS, and React
 - Developed payroll reporting and export features supporting CSV, XLS/XLSX, DAT, and PDF formats
 - Implemented payroll tax calculation, salary processing, and bulk bank transfer file generation for major Sri Lankan banks (Bank of Ceylon, Commercial Bank, HNB, Sampath Bank)
 - Reduced feature-related bugs by **25%** through frontend and backend optimizations
 
-**Intern Software Engineer** — Beta Launch, Colombo *(July 2024 – June 2025)*
+**Intern Software Engineer** — Beta Launch, Colombo *(July 2024 – December 2024)*
 - Built UI components and backend services using React and NestJS, contributing to a **30% reduction** in manual HR tasks
 
 ---
